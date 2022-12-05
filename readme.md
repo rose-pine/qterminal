@@ -24,15 +24,15 @@ Fetch featured below is [NerdFetch](https://github.com/thatonecalculator/nerdfet
 
 **Rosé Pine**
 
-![QTerminal with Rosé Pine]()
+![QTerminal with Rosé Pine](https://user-images.githubusercontent.com/108054324/205614470-3fb5d36a-8128-4205-8e9b-2603f0d0f8f4.png)
 
-**Rosé Pine**
+**Rosé Pine Dawn**
 
-![QTerminal with Rosé Pine Dawn]()
+![QTerminal with Rosé Pine Dawn](https://user-images.githubusercontent.com/108054324/205614521-167cf38e-754d-4851-8da0-a796fa272ba8.png)
 
-**Rosé Pine**
+**Rosé Pine Moon**
 
-![QTerminal with Rosé Pine Moon]()
+![QTerminal with Rosé Pine Moon](https://user-images.githubusercontent.com/108054324/205614543-c9b5bb73-1c67-44af-948c-4143dbc3dac2.png)
 
 ## Thanks to
 
